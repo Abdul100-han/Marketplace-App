@@ -14,7 +14,7 @@ const _layout = () => {
 
       {/* auth  */}
       <SignedIn>
-        <Text>You are signed in </Text>
+        <Text className='mt-10'>You are signed in </Text>
       </SignedIn>
 
       <SignedOut>
